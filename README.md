@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This repo contains the implementation of the algorithm proposed
-in [Off-Belief Learning, ICML 2021](https://arxiv.org/pdf/2103.04000.pdf).
+This repo contains the implementation of the A2I method in [Ma 2022](https://arxiv.org/abs/2201.12658) in the Hanabi learning environment..
 
 ## Update
 
