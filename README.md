@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains the implementation of the A2I method in [Ma 2022](https://arxiv.org/abs/2201.12658) in the Hanabi learning environment..
+This repo contains the implementation of the A2I method in [Ma et al. 2022](https://arxiv.org/abs/2201.12658) in the Hanabi learning environment..
 
 ## Update
 
